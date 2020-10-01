@@ -1,0 +1,45 @@
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.head img.logo {
+    width: 100%;
+    max-width: 160px;
+}
+.head img.wsp {
+    width: 70%;
+    display: block;
+    margin: auto;
+    max-width: 60px;
+}
+.walink{
+
+    text-decoration: none;
+
+}
+.walink:hover{
+    text-decoration: none;
+    
+}
+.catalogos{
+    text-align: center;
+}
+.catalogo {
+    padding: 10px;
+}
+.catalogo-thumb{
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+    display: block;
+   
+}
+
+.catalogo-link{
+    text-decoration: none;
+}
+.catalogo-link:hover{
+    text-decoration: none;
+}
